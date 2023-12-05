@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "due": "date",
-    "urgent": "checkbox"
+    "urgent": "checkbox",
+    "completion date": "date"
   }
 }
