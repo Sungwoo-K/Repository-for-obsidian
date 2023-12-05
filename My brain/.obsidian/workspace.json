@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science.md",
+                "file": "Computer Science/운영체제.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science.md",
+                "file": "Computer Science/운영체제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science.md",
+                "file": "Computer Science/운영체제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science.md"
+                "file": "Computer Science/운영체제.md"
               }
             }
           }
@@ -143,13 +143,18 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "47068bcae525b294",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "Computer Science/알고리즘.md",
+    "Computer Science/디자인 패턴.md",
+    "Computer Science/데이터베이스.md",
+    "Computer Science/네트워크.md",
     "Computer Science/Computer Science.md",
+    "무제 파일.md",
     "For Full stack developer.md",
     "Frontend/Frontend.md",
     "Deployment",
@@ -159,11 +164,7 @@
     "Deployment/Deployment.md",
     "Computer Science/자료구조.md",
     "Computer Science",
-    "Computer Science/네트워크.md",
     "Computer Science",
-    "Computer Science/디자인 패턴.md",
-    "Computer Science/알고리즘.md",
-    "Computer Science/데이터베이스.md",
     "Computer Science/운영체제.md"
   ]
 }
