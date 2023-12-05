@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/데이터베이스.md",
+                "file": "Computer Science/데이터베이스/데이터베이스.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48647787fc3c4205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2903a8e7ac1c3ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/네트워크/네트워크.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ccf54fee776104c",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Computer Science.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,26 +188,29 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "64e9d0793c4a7f80",
+  "active": "5ccf54fee776104c",
   "lastOpenFiles": [
-    "Computer Science/무제 폴더",
+    "Computer Science/네트워크/네트워크.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/자료구조",
+    "무제 폴더",
+    "Computer Science/운영체제",
+    "Computer Science/알고리즘",
+    "Computer Science/디자인 패턴",
+    "Computer Science/데이터베이스",
     "Computer Science/네트워크",
     "For Full stack developer.md",
-    "Computer Science/네트워크.md",
-    "Computer Science/데이터베이스.md",
-    "Computer Science/디자인 패턴.md",
-    "Computer Science/알고리즘.md",
-    "Computer Science/운영체제.md",
-    "Computer Science/자료구조.md",
-    "Computer Science/Computer Science.md",
+    "Computer Science/데이터베이스/데이터베이스.md",
+    "Computer Science/디자인 패턴/디자인 패턴.md",
+    "Computer Science/알고리즘/알고리즘.md",
+    "Computer Science/운영체제/운영체제.md",
+    "Computer Science/자료구조/자료구조.md",
     "무제 파일.md",
     "Frontend/Frontend.md",
     "Deployment",
     "Frontend",
     "Backend",
     "Backend/Backend.md",
-    "Deployment/Deployment.md",
-    "Computer Science",
-    "Computer Science"
+    "Deployment/Deployment.md"
   ]
 }

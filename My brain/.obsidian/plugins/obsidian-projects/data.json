@@ -1,6 +1,47 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Computer Science",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 365
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "ac90b898-db90-4916-9e9b-36ed0a029602",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "2c32b3a9-0606-4b65-a844-5a71431e5dcb",
+      "name": "CS master project"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
