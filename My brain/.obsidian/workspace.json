@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/네트워크/네트워크.md",
+                "file": "Computer Science/네트워크/LAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9f734e8e8ed6bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/네트워크/LAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/네트워크/네트워크.md",
+                "file": "Computer Science/네트워크/LAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/네트워크/네트워크.md",
+                "file": "Computer Science/네트워크/LAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/네트워크/네트워크.md"
+                "file": "Computer Science/네트워크/LAN.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9454b686ea48218b",
+  "active": "d9f734e8e8ed6bd1",
   "lastOpenFiles": [
     "Computer Science/네트워크/네트워크.md",
+    "Computer Science/네트워크/LAN.md",
     "Computer Science/Computer Science.md",
     "Computer Science/데이터베이스/데이터베이스.md",
     "For Full stack developer.md",
