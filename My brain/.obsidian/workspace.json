@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/네트워크/WAN.md",
+                "file": "Computer Science/네트워크/LAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f68af1f5332bc00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/네트워크/Router.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/네트워크/WAN.md",
+                "file": "Computer Science/네트워크/Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/네트워크/WAN.md",
+                "file": "Computer Science/네트워크/Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/네트워크/WAN.md"
+                "file": "Computer Science/네트워크/Router.md"
               }
             }
           }
@@ -160,11 +172,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d9f734e8e8ed6bd1",
+  "active": "2f68af1f5332bc00",
   "lastOpenFiles": [
-    "Computer Science/네트워크/LAN.md",
     "Computer Science/네트워크/WAN.md",
+    "Computer Science/네트워크/LAN.md",
     "Computer Science/네트워크/네트워크.md",
+    "Computer Science/네트워크/Router.md",
     "Computer Science/Computer Science.md",
     "Computer Science/데이터베이스/데이터베이스.md",
     "For Full stack developer.md",
