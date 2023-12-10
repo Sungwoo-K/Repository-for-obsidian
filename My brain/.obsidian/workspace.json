@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/네트워크/LAN.md",
+                "file": "Computer Science/네트워크/WAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/네트워크/LAN.md",
+                "file": "Computer Science/네트워크/WAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/네트워크/LAN.md",
+                "file": "Computer Science/네트워크/WAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/네트워크/LAN.md"
+                "file": "Computer Science/네트워크/WAN.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "d9f734e8e8ed6bd1",
   "lastOpenFiles": [
-    "Computer Science/네트워크/네트워크.md",
     "Computer Science/네트워크/LAN.md",
+    "Computer Science/네트워크/WAN.md",
+    "Computer Science/네트워크/네트워크.md",
     "Computer Science/Computer Science.md",
     "Computer Science/데이터베이스/데이터베이스.md",
     "For Full stack developer.md",
