@@ -40,6 +40,40 @@
       ],
       "id": "2c32b3a9-0606-4b65-a844-5a71431e5dcb",
       "name": "CS master project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Resource/Computer Science/알고리즘",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "169d41fe-1084-4647-b0fc-f22229b0e11f",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "92945c5a-36a8-41de-b018-9366f677bba2",
+      "name": "cs project"
     }
   ],
   "archives": [],

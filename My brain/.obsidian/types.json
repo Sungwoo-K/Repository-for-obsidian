@@ -5,6 +5,7 @@
     "tags": "tags",
     "due": "date",
     "urgent": "checkbox",
-    "completion date": "date"
+    "completion date": "date",
+    "start date": "date"
   }
 }
