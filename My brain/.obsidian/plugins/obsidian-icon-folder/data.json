@@ -6,8 +6,10 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabSpaceAwesome",
-      "FabConnectdevelop"
+      "SiBookstack",
+      "RiAlarmLine",
+      "RiSunFoggyFill",
+      "RiTimerFlashLine"
     ],
     "recentlyUsedIconsSize": 4,
     "rules": [],
@@ -23,5 +25,9 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "For Full stack developer.md": "FabSpaceAwesome"
+  "For Full stack developer.md": "FabSpaceAwesome",
+  "Archive": "RiArchive2Line",
+  "Project": "RiAlarmLine",
+  "Area": "RiSunFoggyFill",
+  "Resource": "SiBookstack"
 }
