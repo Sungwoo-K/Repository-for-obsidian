@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f68af1f5332bc00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Computer Science/네트워크/네트워크.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e65182ef208e5ea6",
             "type": "leaf",
             "state": {
@@ -30,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a219a38070499ae3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/운영체제의 역할.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +152,8 @@
   "lastOpenFiles": [
     "Excalidraw/운영체제의 역할.md",
     "Resource/Computer Science/운영체제/운영체제.md",
-    "Excalidraw",
     "Resource/Computer Science/네트워크/네트워크.md",
+    "Excalidraw",
     "Resource/Computer Science/네트워크/LAN.md",
     "Resource/Computer Science/알고리즘/알고리즘.md",
     "Resource/Computer Science/네트워크/Router.md",
