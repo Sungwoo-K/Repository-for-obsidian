@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "483185946d780670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Computer Science/운영체제/운영체제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,10 +161,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e65182ef208e5ea6",
+  "active": "483185946d780670",
   "lastOpenFiles": [
-    "Excalidraw/운영체제의 역할.md",
+    "Excalidraw/운영체제의 목표.md",
     "Resource/Computer Science/운영체제/운영체제.md",
+    "Excalidraw/운영체제의 역할.md",
     "Resource/Computer Science/네트워크/네트워크.md",
     "Excalidraw",
     "Resource/Computer Science/네트워크/LAN.md",
