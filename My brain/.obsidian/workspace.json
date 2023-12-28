@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a219a38070499ae3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/운영체제의 역할.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -157,14 +167,17 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e65182ef208e5ea6",
   "lastOpenFiles": [
+    "Excalidraw/운영체제의 역할.md",
+    "Resource/Computer Science/운영체제/운영체제.md",
+    "Excalidraw",
     "Resource/Computer Science/네트워크/네트워크.md",
     "Resource/Computer Science/네트워크/LAN.md",
-    "Resource/Computer Science/운영체제/운영체제.md",
     "Resource/Computer Science/알고리즘/알고리즘.md",
     "Resource/Computer Science/네트워크/Router.md",
     "Resource/Computer Science/네트워크/WAN.md",
@@ -183,7 +196,6 @@
     "Resource/Computer Science/알고리즘",
     "Resource/Computer Science/디자인 패턴",
     "Resource/Computer Science/데이터베이스",
-    "Resource/Computer Science/네트워크",
     "무제 파일.md",
     "Resource/Frontend/Frontend.md",
     "Resource/Backend/Backend.md"
