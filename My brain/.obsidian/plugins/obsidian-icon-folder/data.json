@@ -6,10 +6,10 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiImageFill",
       "SiBookstack",
       "RiAlarmLine",
-      "RiSunFoggyFill",
-      "RiTimerFlashLine"
+      "RiSunFoggyFill"
     ],
     "recentlyUsedIconsSize": 4,
     "rules": [],
@@ -29,5 +29,6 @@
   "Archive": "RiArchive2Line",
   "Project": "RiAlarmLine",
   "Area": "RiSunFoggyFill",
-  "Resource": "SiBookstack"
+  "Resource": "SiBookstack",
+  "Excalidraw": "RiImageFill"
 }

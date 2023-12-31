@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c69aca2ae30dbd1",
+        "id": "80f5bf9236c847d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e65182ef208e5ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Computer Science/운영체제/운영체제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "483185946d780670",
+            "id": "b8b225e5087c1fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,13 +128,21 @@
                 "file": "Resource/Computer Science/운영체제/운영체제.md"
               }
             }
+          },
+          {
+            "id": "8f7c8e97191fda50",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,14 +153,16 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "483185946d780670",
+  "active": "8f7c8e97191fda50",
   "lastOpenFiles": [
-    "Resource/Computer Science/운영체제/운영체제.md",
     "Excalidraw/운영체제의 목표.md",
+    "Excalidraw/Drawing 2023-12-31 16.44.14.excalidraw.md",
     "Excalidraw/운영체제의 역할.md",
+    "Resource/Computer Science/운영체제/운영체제.md",
     "Resource/Computer Science/네트워크/네트워크.md",
     "Excalidraw",
     "Resource/Computer Science/네트워크/LAN.md",
