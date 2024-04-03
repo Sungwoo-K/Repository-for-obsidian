@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Computer Science/운영체제/운영체제.md",
+                "file": "Resource/Computer Science/네트워크/Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/Computer Science/운영체제/운영체제.md",
+                "file": "Resource/Computer Science/네트워크/Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/Computer Science/운영체제/운영체제.md",
+                "file": "Resource/Computer Science/네트워크/Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Computer Science/운영체제/운영체제.md"
+                "file": "Resource/Computer Science/네트워크/Protocol.md"
               }
             }
           },
@@ -165,22 +165,26 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64e9d0793c4a7f80",
+  "active": "9a4361db46320169",
   "lastOpenFiles": [
-    "Excalidraw/컴퓨터 시스템의 구조.md",
+    "Resource/Computer Science/네트워크/LAN.md",
+    "Resource/Computer Science/네트워크/Protocol.md",
+    "Resource/Computer Science/네트워크/네트워크.md",
+    "Resource/Computer Science/네트워크/WAN.md",
     "Resource/Computer Science/운영체제/운영체제.md",
+    "Excalidraw/컴퓨터 시스템의 구조.md",
     "Excalidraw/운영체제의 목표.md",
     "Excalidraw/Drawing 2023-12-31 16.44.14.excalidraw.md",
     "Excalidraw/운영체제의 역할.md",
-    "Resource/Computer Science/네트워크/네트워크.md",
     "Excalidraw",
-    "Resource/Computer Science/네트워크/LAN.md",
     "Resource/Computer Science/알고리즘/알고리즘.md",
     "Resource/Computer Science/네트워크/Router.md",
-    "Resource/Computer Science/네트워크/WAN.md",
     "Resource/Computer Science/Computer Science.md",
     "For Full stack developer.md",
     "Resource/Deployment/Deployment.md",
